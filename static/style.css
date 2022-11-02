@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Hobbiton Brushhand;
+    src: url('static/HobbitonBrushhandhobbitonBrush-WygA.ttf') format('truetype');
+}
+
+body {
+    background-color: bisque;
+}
+
+/* url('fonts/fira/woff2/FiraSans-Regular.ttf') format('truetype'); */
