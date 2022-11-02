@@ -1,10 +1,31 @@
-@font-face {
-    font-family: Hobbiton Brushhand;
-    src: url('static/HobbitonBrushhandhobbitonBrush-WygA.ttf') format('truetype');
+body {
+    background-color: rgb(129, 94, 48);
+    color: rgb(23, 23, 21);
+    font-family: cursive;
+    font-weight: 900;
 }
 
-body {
-    background-color: bisque;
+h1 {
+    font-size: 8rem;
+    font-weight: 900;
+    font-style: oblique;
+    text-align: center;
+    margin: 0;
 }
+
+
+#cxname {
+    color: rgb(17, 76, 25);
+    font-size: 4rem;
+    
+}
+
+p {
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+
+
 
 /* url('fonts/fira/woff2/FiraSans-Regular.ttf') format('truetype'); */
